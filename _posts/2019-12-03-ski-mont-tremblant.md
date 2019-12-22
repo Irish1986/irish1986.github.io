@@ -13,6 +13,6 @@ Last winter, Chantale and myself went [skiing in Tremblant]({{ site.github.url }
 
 We won't be chair skiing often in Tremblant since it so freaking expansive therefore we have to maximize those ticket.  The North side was finally open but snow condition are really in yet so only half was accessible.
 
-![alt text]({{ site.github.url }}/assets/img/insta/201912/9f1359aad77ac47ec79cc633c7730a42.jpg "Chaton in the Gondola")
+![alt text]({{ site.github.url }}/assets/img/insta/201912/3ca0a1d9a8fd0d963d80a1c3e78a630c.jpg "Chaton in the Gondola")
 
 After a few runs, Chantale needed a break and I venture into more difficult runs my new Scrapper performed well and deeper snow will be awesome with them.

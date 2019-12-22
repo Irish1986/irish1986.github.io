@@ -10,8 +10,7 @@ image: fb\80604664_10157659510638796_7244025165808402432_o.jpg
 
 After my hiatus was over, I rejoined the [Canadian Alpin Club](http://dev.accmontreal.ca/) early this year but I didn't get involved much.  Since we are becoming a family in couple of month, my partner in climb is not going to take huge risk and venture too far in the backcountry this winter.  So I decided to get back in touch with other fun people to ski uphill and explore the backcountry.
 
-
-![alt text]({{ site.github.url }}/assets/img/fb/80988185_10157659510273796_3277480240678436864_o.jpg "Touring Gear" width="200" height="200")
+![alt text]({{ site.github.url }}/assets/img/fb/80988185_10157659510273796_3277480240678436864_o.jpg =250x250 "Touring Gear")
 
 ### Back in Tremblant
 

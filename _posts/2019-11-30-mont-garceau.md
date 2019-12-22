@@ -17,4 +17,4 @@ We decided to get away from the Laurentides and drove toward St-Donat.  Today wa
 
 Finally December and we can wait for the first big pow dump.  So far we really on small snow storm and being skiing mostly on artificial made snow.  La Reserve only had 2 runs open and not enough snow to allow us to ski tour.  My quiver expanded once more with a gift from my uncle, a pair of short Salomon CrossMax which are defacto my groomer ski.  Since the runs were simple and did not offer a lot of varieties after couple of hours skiing it was enough, we ahead out toward St-Jerome to pick up our Germand Shedder.  So that was our first weekend ski getaway.  We are super excited for the upcoming weeks to ski even more.
 
-![alt text]({{ site.github.url }}/assets/img/insta/201912/3ca0a1d9a8fd0d963d80a1c3e78a630c "Nice view of Lanaudiere")
+![alt text]({{ site.github.url }}/assets/img/insta/201912/3ca0a1d9a8fd0d963d80a1c3e78a630c.jpg "Nice view of Lanaudiere")

@@ -4,11 +4,14 @@ title: "1st Time Ski Touring"
 author: "Simon Harvey"
 categories: journal
 tags: [ski, touring, tremblant]
+image: 71dc2c86af63eee4face5387ff888b97.jpg
 ---
 
 ### Ski Uphill
 
 I bought myself some nice touring ski couple of years ago.  Thinking I would get into ski mountaineering eventually coming from a climbing & alpine background I spend 2 years skiing just to learn the basic.  Finally, I had all the basic skill and was good enough to try touring.  I never had toured before and was planning to go in a smaller resort before in order to get familiar with my gears.  So my 1st touring gear are [2013 Atomic Drift (173cm)](https://www.evo.com/outlet/skis/atomic-drifter-2013), slightly too short for me but short ski are good for beginner, with [Tyrolia Adrenalin 13](https://www.evo.com/outlet/alpine-touring-ski-bindings/tyrolia-adrenalin-13-long), because I am fat so no tech pins for me and new [Dalbello V.I.R.U.S. Tour ID](https://www.evo.com/outlet/ski-boots/dalbello-virus-tour-id-alpine-touring).
+
+![alt text](201901\0d390b3c94b2f11aa994d0bb0262771f.jpg "Touring Gear")
 
 ### The Trails
 
@@ -21,9 +24,3 @@ Long story short and bad weather, I ended up in Mont Tremblant on the south side
 * My setup is very heavy and carried to much gear in my pack.
 * It was a great adventure and I will enjoy touring a lot.
 * I should start slow and finish strong (not the other way around).
-
-## Images
-
-To add an image, use `![alt text](<Image url> "Image meta title")`:
-
-![alt text](http://noirve.com/wp-content/uploads/2013/10/DTTSP_Coffee.jpg "Example")

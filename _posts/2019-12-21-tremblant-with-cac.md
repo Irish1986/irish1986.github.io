@@ -3,7 +3,7 @@ layout: post
 title: "Skinning Tremblant with Canadian Alpin Club"
 author: "Simon Harvey"
 categories: journal
-tags: [ski, touring, tremblant]
+tags: [skiing, touring, tremblant]
 image: fb\80604664_10157659510638796_7244025165808402432_o.jpg
 ---
 ### Rejoining the CAC
@@ -12,7 +12,7 @@ After my hiatus was over, I rejoined the [Canadian Alpin Club](http://dev.accmon
 
 ### Back in Tremblant
 
-The CAC organize a touring day in Tremblant and about 12 people decided to join us.  It was mostly new comer and first timer yet fit and strong hiker who showed up.  Chantale and myself had [skinned up Tremblant early this year]({{ site.github.url }}{% post_url 2019-12-03-ski-mont-tremblant %}) via the south side and since the organizer was not familiar we eventually became group leaders.
+The CAC organize a touring day in Tremblant and about 12 people decided to join us.  It was mostly new comer and first timer yet fit and strong hiker who showed up.  Chantale and myself had [skinned up Tremblant early this year]({{ site.github.url }}{% post_url 2019-11-25-mont-tremblant %}) via the south side and since the organizer was not familiar we eventually became group leaders.
 
 ![alt text]({{ site.github.url }}/assets/img/fb/80988185_10157659510273796_3277480240678436864_o.jpg "First Group lead by Chantale")
 

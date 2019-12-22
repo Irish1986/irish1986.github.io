@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Late November Mont Tremblant"
+title: "Mid-November Mont Habitant"
 author: "Simon Harvey"
 categories: journal
-tags: [skiing, touring, mont tremblant]
+tags: [skiing, resort, habitant]
 ---

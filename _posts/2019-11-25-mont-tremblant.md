@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Mid-November Mont Habitant"
+title: "Skinning Tremblant Mid-November"
 author: "Simon Harvey"
 categories: journal
-tags: [skiing, ressort, mont habitant]
+tags: [skiing, touring, tremblant]
 ---

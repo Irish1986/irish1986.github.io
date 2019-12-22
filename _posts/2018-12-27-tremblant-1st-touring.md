@@ -4,7 +4,7 @@ title: "1st Time Ski Touring"
 author: "Simon Harvey"
 categories: journal
 tags: [ski, touring, tremblant]
-image: 201812\71dc2c86af63eee4face5387ff888b97.jpg
+image: 201812/71dc2c86af63eee4face5387ff888b97.jpg
 ---
 
 ### Ski Uphill

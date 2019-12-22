@@ -6,6 +6,7 @@ categories: journal
 tags: [skiing, touring, tremblant]
 image: fb\80604664_10157659510638796_7244025165808402432_o.jpg
 ---
+
 ### Rejoining the CAC
 
 After my hiatus was over, I rejoined the [Canadian Alpin Club](http://dev.accmontreal.ca/) early this year but I didn't get involved much.  Since we are becoming a family in couple of month, my partner in climb is not going to take huge risk and venture too far in the backcountry this winter.  So I decided to get back in touch with other fun people to ski uphill and explore the backcountry.

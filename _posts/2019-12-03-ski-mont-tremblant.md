@@ -15,4 +15,4 @@ We won't be chair skiing often in Tremblant since it so freaking expansive there
 
 ![alt text]({{ site.github.url }}/assets/img/insta/201912/9f1359aad77ac47ec79cc633c7730a42.jpg "Chaton in the Gondola")
 
-After a few runs, Chantale needed a break and I venture into more difficult runs my new Scrapper performed well and deeper snow will be awesome with them.
+After a few runs, Chantale needed a break to rest and I venture into more difficult runs my new Scrapper performed well and deeper snow will be awesome with them.

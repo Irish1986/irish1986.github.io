@@ -28,5 +28,6 @@ It took our little group about 2hrs 30 minutes to summit and we took a short bre
 * Round trip ~11km
 * 695m elevation
 * Average moving time ~ 9.3km/h
+* *STRAVA APP IS PURE GARBAGE NOW*
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2947630392/embed/28a777846bf7e526b6f08b918aa217d936667587'></iframe>

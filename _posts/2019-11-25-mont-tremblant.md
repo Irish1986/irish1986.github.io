@@ -16,7 +16,7 @@ The North side was close since no additional snow felt after the early dump from
 
 We skinned up for a little but under 3hrs, given I had some technical issue with my new Salomon Shift binding.  About 100 feet from the summit, the ski patrol stopped us to control our ticket.  They were fairly rude and stated the trail was close and we were not allowed to climb.  Hopefully for us, we bought ticket and had confirm at least with 3 others ressort employee before therefore the ski patrol were just confused and let us go without too much arguing.  We went down the same way we did.  Although, Chantale is still experiencing a lot of difficulties with her new "fatty ski" which hurts her feet and shins a lot.  We went down slowly pitch by pitch and our first tour of the year was completed..
 
-![alt text]({{ site.github.url }}/assets/img/insta/201911/d0ac4c885d9075385fd6746bdcbb2964 "Partners in climb")
+![alt text]({{ site.github.url }}/assets/img/insta/201911/d0ac4c885d9075385fd6746bdcbb2964.jpg "Partners in climb")
 
 ### Our Strava itinerary
 

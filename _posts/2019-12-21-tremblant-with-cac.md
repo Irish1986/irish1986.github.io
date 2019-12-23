@@ -22,3 +22,11 @@ The group was divided in two, Chantale with the front sub-group whom were ~12 mi
 ![alt text]({{ site.github.url }}/assets/img/fb\80420234_10159768585273849_6954446672436920320_n.jpg "Coming out of Vertigo trails")
 
 It took our little group about 2hrs 30 minutes to summit and we took a short break at the top since Tremblant offer nice amenities (which are rare while touring).  Short lunch and half the group decided to ski down half of the north side while the rest were happy that going uphill was over.  Chantale was tired and enjoy well earn turns for a fantastic day.
+
+### Our Strava itinerary
+
+* Round trip ~11km
+* 695m elevation
+* Average moving time ~ 9.3km/h
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2947630392/embed/28a777846bf7e526b6f08b918aa217d936667587'></iframe>

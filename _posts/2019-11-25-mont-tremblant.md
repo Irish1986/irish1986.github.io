@@ -18,6 +18,12 @@ We skinned up for a little but under 3hrs, given I had some technical issue with
 
 ![alt text]({{ site.github.url }}/assets/img/insta/201911/d0ac4c885d9075385fd6746bdcbb2964 "Partners in climb")
 
-### Our Strava itineary
+### Our Strava itinerary
+
+* Round trip 12km
+* ~ 4 hours
+* 658m elevation
+* 142/178bpm HR
+* Average moving time ~ 5.7km/h
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2889015505/embed/1fd8f3d3d250db2d3aca4d2d3764d3d4718ccf45'></iframe>

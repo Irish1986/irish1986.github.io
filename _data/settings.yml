@@ -8,6 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'Tick List', path: 'menu', url: 'tick.html'}
 - {name: 'Writing', path: 'menu', url: 'writing.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
 

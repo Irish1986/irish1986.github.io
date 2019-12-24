@@ -37,13 +37,13 @@ Since you do not have the skill to go into avalanche terrain you won't need thes
 
 ### Rental location
 
-* [LaCordée](https://www.lacordee.com/fr/services/location-montreal)
+* [LaCordée St-Laurent](https://www.lacordee.com/fr/services/location-montreal)
 
-This store used to be Le Yeti before LaCordée bought them couple of years ago.  They still carry a lot of gear and do several demo day.  Pricing is decent  (~60$) for the AT ski or splitboard setup.
+This store used to be Le Yeti before LaCordée bought them couple of years ago.  They still carry a lot of gear and do several demo day.  Pricing is decent  ~60$ for the AT ski or splitboard setup.
 
-* [MEC](https://mecmontreal.pointofrentalcloud.com/portal/category/Ski%20de%20haute%20route/21748)
+* [MEC Marché Central](https://mecmontreal.pointofrentalcloud.com/portal/category/Ski%20de%20haute%20route/21748)
 
-MEC offer good price if you are just looking for AT boots (~15$) and will borrow AT ski from a friend.  The setup is about 50$ per day.
+MEC offer good price if you are just looking for AT boots ~15$ and will borrow AT ski from a friend.  The setup is about 50$ per day.
 
 * [Atmosphere St-Sauveur](https://www.sportsexperts.ca/fr-CA/Magasins?StoreNumber=834&StoreName=atmosphere-factoreries-st-sauveur)
 

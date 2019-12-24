@@ -4,7 +4,7 @@ title: "Ski touring rental"
 author: "Simon Harvey"
 categories: journal
 tags: [skiing, touring, montreal]
-image: tbd.jpg
+image: web/ski-touring-checklist-dynafit.jpg
 ---
 
 ### Trying out ski touring ?
@@ -16,6 +16,9 @@ Without getting into too much details, you need to get the follow for certain.
 * Skis with alpine touring (AT) binding
 * Skins that fits those ski
 * AT Ski Boots compatible with your binding
+
+
+![alt text]({{ site.github.url }}/assets/img/web/Zero-g-navis-package_1400x.jpg "Daily Driver 2.0 Ski Package")
 
 Obviously your should also bring these things.
 

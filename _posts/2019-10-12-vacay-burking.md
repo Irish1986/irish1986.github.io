@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Vacaytion - Burke"
+title: "Vacaytion - Burking Around"
 author: "Simon Harvey"
 categories: journal
 tags: [biking, mountain, usa, burke]
-image: insta/201910/f1883a6f7a1cf4dc285ccc2eb9611aee.jpg
+image: insta/201910/f287030feffbddadf0c3ad42ca5db6e6.jpg
 ---
 
 ### Long weekend, long delay
@@ -13,7 +13,7 @@ Finally, the truck is packed and we are off.  But first we have several hours wo
 ### Kingdom Trail in Burke
 It my first time at [Kingdom Trail](https://www.kingdomtrails.org/) in Burke.  I have heard a lots of good about this place and watch  [The Singletrack Sampler](https://www.youtube.com/watch?v=2y5tfaA-H-A&t=624s) visited this place.  We asked for help and recommendation at the visitor center whom they provided us with maps and a good idea of where and what to do.
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2780895394/embed/b2a2762bb5889d7a37e5be00a1d478b232b307e2'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2795793996/embed/4b673d3d676ca021192d3ce0c388cd15f441b8dc'></iframe>
 
 The trails system is awesome !!!  Although I am still a new rider, I was told the grade are a bit sandbagged here.  It is true but good for our ego.  After couple of hours riding we found a nice skills park and stopped for a quick coffee.
 

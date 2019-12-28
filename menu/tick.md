@@ -17,13 +17,23 @@ author: "Simon Harvey"
 
 
 ### Ice & Alpine Climbing
-* TBD, i have done so many
+* New Hampshire
+  - [x] [Odell's Gully](https://www.mountainproject.com/route/106449898/odells-gully), WI3+ - Ice, 3P
+  - [x] [Shoestring Gully](https://www.mountainproject.com/route/106100769/shoestring-gully), WI2+ - Ice, 6P
+* Peru
+  - [x] [Tocllaraju](https://www.mountainproject.com/route/112083010/tocllaraju-northwest-ridge), AI2 - Alpine, 5980m
+  - [x] [Vallunaraju](https://www.mountainproject.com/route/111929198/southwestern-route), F - Alpine, 5686m
+  - [x] [Urus](https://www.mountainproject.com/route/106370657/southeast-slopes-to-east-ridge-urus-este-5420mts), F - Alpine, 5420m
+  - [x] [Ishinca](https://www.mountainproject.com/route/106407702/ishinca-5530m-northwest-slopes), F - Alpine, 5530m
+  - [x] [Pisco](https://www.mountainproject.com/route/106376347/pisco-normal-route), F - Alpine, 5752m
 
 ### Mountain Biking
-* TBD, i have done so many
+* Burke
+* Grenville
+  - [x] [Big Red Gravel Run](https://www.bigredgravelrun.com/)
 
 ### Hiking
 * TBD, i have done so many
 
-### Others coo feat
+### Others cool feat
 * TBD, i have done so many

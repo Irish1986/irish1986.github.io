@@ -13,7 +13,7 @@ I came to Rumney a few years ago with my previous climbing partner Andy.  Back t
 ![alt text]({{ site.github.url }}/assets/img/insta/201910/95a70c83c6ea4c50a473eeb0d09e7b25.jpg "Top of Jimmy Cliff")
 
 ### Easy climb but fun time
-My partner in climb and I both enjoy easy multi-pitch climb and although Rumney is known for some of the hardest sport climb in the Northeast there are plenty or easy and fun climb.  I had climb on Jimmy Wall last time but I didn't explore other area.  We continue to hike up to the Crow's Nest and enjoyed Pee Wee's Big Adventure trad climb.  Really nice route although a bit short.
+My partner in climb and I both enjoy easy multi-pitch climb and although Rumney is known for some of the hardest sport climb in the Northeast there are plenty or easy and fun climb.  I had climb on Jimmy Wall last time but I didn't explore other area.  We continue to hike up to the Crow's Nest and enjoyed Pee Wee's Big Adventure trad climb.  Really nice route although a bit short.  Chantale was very very tired and hiking down was hard for her.  She was grumpy and just wanted to be done with it.
 
 ![alt text]({{ site.github.url }}/assets/img/insta/201910/753a3b7307dd90bce8ce2c1450e193f0.jpg "Exhausted Chaton coming down")
 

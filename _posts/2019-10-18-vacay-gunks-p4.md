@@ -4,7 +4,7 @@ title: "Vacaytion - Wrap Party"
 author: "Simon Harvey"
 categories: journal
 tags: [climbing, rock, usa, gunks]
-image: insta/201910/f7f9ddf692c8833f6e64487d9f071f7d.jpg
+image: insta/201910/710aeb8936075ced3a23acab7d67890e.jpg
 ---
 
 ### Last day in the Gunks

@@ -15,6 +15,14 @@ My lovely partner in climb and I are going on our summer vacation.  Earlier this
 We have 8 to 10 days ahead of us and we planned to explore the Northeast of the USA.  Although I have a very specific itinerary, Chantale is more a free mind and wants to go with the flow.  Therefore we will end up mountain biking in Burke for certain and at some point in time in the Gunks rock climbing.
 
 * [Day 1]({{ site.github.url }}{% post_url 2019-10-11-vacay-burke %})
+* [Day 2]({{ site.github.url }}{% post_url 2019-10-12-vacay-burking %})
+* [Day 3]({{ site.github.url }}{% post_url 2019-10-13-vacay-rumney %})
+* [Day 4]({{ site.github.url }}{% post_url 2019-10-14-vacay-gunks-p1 %})
+* [Day 5]({{ site.github.url }}{% post_url 2019-10-15-vacay-gunks-p2 %})
+* [Day 6]({{ site.github.url }}{% post_url 2019-10-16-vacay-outlet %})
+* [Day 7]({{ site.github.url }}{% post_url 2019-10-17-vacay-gunks-p3 %})
+* [Day 8]({{ site.github.url }}{% post_url 2019-10-18-vacay-gunks-p4 %})
+* [Day 9]({{ site.github.url }}{% post_url 2019-10-19-usa-vacaytiong-over %})
 
 ### Expedition truck is ready
 

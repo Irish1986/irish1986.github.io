@@ -9,7 +9,13 @@ author: "Simon Harvey"
   - [x] [Chapel Pond Slab Regular Rt](https://www.mountainproject.com/route/106411030/regular-route), 5.5 - Trad, 8P
 * Val David, QC
   - [x] [Arabesque](https://www.mountainproject.com/route/108380035/arabesque), 5.4 - Trad, 3P
+  - [x] [Le Dièdre](https://www.mountainproject.com/route/117360719/le-diedre), 5.5 - Trad, 1P
   - [x] [Chico](https://www.mountainproject.com/route/110523985/chico), 5.3 - Trad, 1P
+  - [x] [Sans Nom](https://www.mountainproject.com/route/110523851/sans-nom), 5.4 - Trad, 1P
+  - [x] [Diablotin](https://www.mountainproject.com/route/110524261/diablotin), 5.8 - Top Rope, 1P
+  - [x] [L'Etonnante](https://www.mountainproject.com/route/110524282/letonnante), 5.6 - Top Rope, 1P
+  - [x] [La Valse](https://www.mountainproject.com/route/108377855/la-valse), 5.6 - Trad, 1P
+  - [x] [In Between](https://www.mountainproject.com/route/110524008/in-between), 5.10a - Top Rope, 1P
   - [x] [Ochra](https://www.mountainproject.com/route/108145859/ochra), 5.10a - Mixte, 1P
   - [x] [Sceptre](https://www.mountainproject.com/route/109006250/sceptre), 5.8 - Trad, 1P
   - [x] [Staircase ](https://www.mountainproject.com/route/108411431/staircase), 5.6 - Trad, 1P

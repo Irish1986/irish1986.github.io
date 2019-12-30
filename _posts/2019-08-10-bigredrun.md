@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Canoeing Lac du Poisson Blanc"
+title: "Big Red Gravel Run"
 author: "Simon Harvey"
 categories: journal
 tags: [canoeing, lac du poisson blanc]

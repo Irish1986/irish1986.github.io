@@ -14,6 +14,24 @@ author: "Simon Harvey"
   - [x] [Sceptre](https://www.mountainproject.com/route/109006250/sceptre), 5.8 - Trad, 1P
   - [x] [Staircase ](https://www.mountainproject.com/route/108411431/staircase), 5.6 - Trad, 1P
   - [x] [The Crown](https://www.mountainproject.com/route/109194197/the-crown), 5.8+ - Trad, 1P
+  * Gunks, NY
+  - [x] [Betty](https://www.mountainproject.com/route/105920873/betty), 5.3 - Trad, 3P
+  - [x] [Boston](https://www.mountainproject.com/route/106031901/boston), 5.5 - Trad, 1P
+  - [x] [Ken's Crack](https://www.mountainproject.com/route/105799779/kens-crack), 5.7+ - Trad, 1P
+  - [x] [Dirty Chimney](https://www.mountainproject.com/route/106511488/dirty-chimney), 5.0 - Trad, 1P
+  - [x] [Rhododendron](https://www.mountainproject.com/route/105810485/rhododendron), 5.6 - Trad, 1P
+  - [x] [Laurel](https://www.mountainproject.com/route/105810464/laurel), 5.7 - Trad, 1P
+  - [x] [Northern Pillar](https://www.mountainproject.com/route/105939747/northern-pillar), 5.3 - Trad, 3P
+  - [x] [Yale](https://www.mountainproject.com/route/109149831/yale), 5.3 - Trad, 1P
+  - [x] [Penn](https://www.mountainproject.com/route/113805195/penn), 5.5 - Trad, 1P
+  - [x] [No Picnic](https://www.mountainproject.com/route/106133879/no-picnic), 5.5 - Trad, 1P
+  - [x] [Clip a Dee Doo Dah](https://www.mountainproject.com/route/105888037/clip-a-dee-doo-dah), 5.3 - Sport, 2P
+  - [x] [Standard Route](https://www.mountainproject.com/route/106397749/standard-route), 5.3 - Trad, 2P
+  - [x] [Lady and the Tramp](https://www.mountainproject.com/route/106057108/lady-and-the-tramp), 5.4 - Sport, 2P
+  - [x] [Pine Tree Crack](https://www.mountainproject.com/route/106057097/pine-tree-crack), 5.4 - Trad, 3P
+  - [x] [Pee Wee's Big Adventure](https://www.mountainproject.com/route/105966723/pee-wees-big-adventure), 5.4 - Trad, 1P
+  - [x] [Piece of Cake](https://www.mountainproject.com/route/106491699/piece-of-cake), 5.5 - Sport, 1P
+  - [x] [The Little Mermaid](https://www.mountainproject.com/route/106454898/the-little-mermaid), 5.6 - Sport, 1P
 
 
 ### Ice & Alpine Climbing

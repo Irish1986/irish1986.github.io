@@ -25,6 +25,7 @@ author: "Simon Harvey"
   - [x] [Yale](https://www.mountainproject.com/route/109149831/yale), 5.3 - Trad, 1P
   - [x] [Penn](https://www.mountainproject.com/route/113805195/penn), 5.5 - Trad, 1P
   - [x] [No Picnic](https://www.mountainproject.com/route/106133879/no-picnic), 5.5 - Trad, 1P
+* Rumney, NH
   - [x] [Clip a Dee Doo Dah](https://www.mountainproject.com/route/105888037/clip-a-dee-doo-dah), 5.3 - Sport, 2P
   - [x] [Standard Route](https://www.mountainproject.com/route/106397749/standard-route), 5.3 - Trad, 2P
   - [x] [Lady and the Tramp](https://www.mountainproject.com/route/106057108/lady-and-the-tramp), 5.4 - Sport, 2P

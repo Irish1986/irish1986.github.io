@@ -14,7 +14,7 @@ author: "Simon Harvey"
   - [x] [Sceptre](https://www.mountainproject.com/route/109006250/sceptre), 5.8 - Trad, 1P
   - [x] [Staircase ](https://www.mountainproject.com/route/108411431/staircase), 5.6 - Trad, 1P
   - [x] [The Crown](https://www.mountainproject.com/route/109194197/the-crown), 5.8+ - Trad, 1P
-  * Gunks, NY
+* Gunks, NY
   - [x] [Betty](https://www.mountainproject.com/route/105920873/betty), 5.3 - Trad, 3P
   - [x] [Boston](https://www.mountainproject.com/route/106031901/boston), 5.5 - Trad, 1P
   - [x] [Ken's Crack](https://www.mountainproject.com/route/105799779/kens-crack), 5.7+ - Trad, 1P
